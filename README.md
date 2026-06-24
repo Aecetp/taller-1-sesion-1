@@ -4,7 +4,7 @@
 
 En esta sesión, construiremos un sistema multiagente aplicando conceptos fundamentales de grafos de estado.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/barker/langgraph-multiagentes?devcontainer_path=.devcontainer%2Fdevcontainer.json)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Aecetp/taller-1-sesion-1?devcontainer_path=.devcontainer%2Fdevcontainer.json)
 
 ---
 
